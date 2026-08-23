@@ -1,4 +1,4 @@
-# Cauã de Castro
+# Cauã de Castro Araujo
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul.
 
